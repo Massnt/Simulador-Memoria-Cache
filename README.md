@@ -1,8 +1,8 @@
 # **Um simulador que não é bem um Simulador**
 
 ## **Trabalho desenvolvido para a Matéria de Arquitetura e Organização de Computadores**
-* Universidade Federal da Grande Dourados *
-* Matéria ministrada pelo Prof.M.Ss. Rodrigo Porfírio da Silva Sacchi *
+* Universidade Federal da Grande Dourados
+* Matéria ministrada pelo Prof.M.Ss. Rodrigo Porfírio da Silva Sacchi
 
 ### _Autor: Mateus Souza Silva_
 
