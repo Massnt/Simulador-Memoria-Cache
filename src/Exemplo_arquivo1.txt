@@ -1,0 +1,4 @@
+32 #Tamanho da MP
+2 # Tamanho do Bloco
+8 # Quantidade de linhas da cache
+Direto #ou Associativo # Nome Mapeamento
